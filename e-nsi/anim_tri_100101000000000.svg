@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="632" height="44" viewBox="0 -44 632 44">
+<defs>
+</defs>
+<g>
+<rect x="0" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="14" y="-14" font-size="26" fill="white" dy="0em">1</text>
+</g>
+<g>
+<rect x="42" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="56" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="84" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="98" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="126" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="140" y="-14" font-size="26" fill="white" dy="0em">1</text>
+</g>
+<g>
+<rect x="168" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="182" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="210" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="224" y="-14" font-size="26" fill="white" dy="0em">1</text>
+</g>
+<g>
+<rect x="252" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="266" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="294" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="308" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="336" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="350" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="378" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="392" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="420" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="434" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="462" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="476" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="504" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="518" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="546" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="560" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="588" y="-42" width="40" height="40" fill="red" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="602" y="-14" font-size="26" fill="white" dy="0em">0</text>
+</g>
+<g>
+<rect x="0" y="-42" width="40" height="40" fill="violet" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="14" y="-14" font-size="26" fill="white" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.21875s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="126" y="-42" width="40" height="40" fill="violet" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="140" y="-14" font-size="26" fill="white" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.65625s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="210" y="-42" width="40" height="40" fill="violet" stroke-width="1" stroke="black" rx="8" fill-opacity="1" />
+<text x="224" y="-14" font-size="26" fill="white" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.984375s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="588" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="602" y="-14" font-size="26" fill="black" dy="0em">1</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.21875s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="0" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="14" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.328125s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="42" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="56" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.4375s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="84" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="98" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.546875s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="546" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="560" y="-14" font-size="26" fill="black" dy="0em">1</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.65625s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="126" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="140" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.765625s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="168" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="182" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.875s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="504" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="518" y="-14" font-size="26" fill="black" dy="0em">1</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="0.984375s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="210" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="224" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="1.09375s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="252" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="266" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="1.203125s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="294" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="308" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="1.3125s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="336" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="350" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="1.421875s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="378" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="392" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="1.53125s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+<g>
+<rect x="420" y="-42" width="40" height="40" fill="green" stroke-width="2" stroke="black" rx="8" fill-opacity="1" />
+<text x="434" y="-14" font-size="26" fill="black" dy="0em">0</text>
+<animate values="0;1" calcMode="discrete" repeatCount="indefinite" attributeName="opacity" dur="4.75s" begin="1.640625s" />
+<animate values="hidden;visible" calcMode="discrete" repeatCount="indefinite" attributeName="visibility" dur="4.75s" begin="0" />
+</g>
+</svg>
